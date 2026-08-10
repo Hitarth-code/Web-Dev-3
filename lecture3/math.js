@@ -1,3 +1,4 @@
+//============================= CoreJS module syntax=====================================//
 // module.exports = {
 //     add,
 //     subtract
@@ -9,7 +10,8 @@
 // function subtract(a, b) {
 //     return a - b;
 // }
-//============================= ES module syntax=====================================//                        
+//============================= ES module syntax=====================================//      
+
 function add(a, b) {
     return a + b;
 }
